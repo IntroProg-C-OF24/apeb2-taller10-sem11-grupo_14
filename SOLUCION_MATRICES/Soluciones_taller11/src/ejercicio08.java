@@ -39,5 +39,15 @@ public class ejercicio08 {
     }
 }
 /*
-
+-1   9   7  -7   2 
+  6   1  -2   4   7 
+  0   8   5  -6   7 
+ -3  -3  -9  -3  -9 
+  1   2  -4  -8  -2 
+Elementos de la diagonal principal:
+ -1   1   5  -3  -2 
+Elementos sobre la diagonal principal:
+  9   7  -7   2  -2   4   7  -6   7  -9 
+Elementos bajo la diagonal principal:
+  6   0   8  -3  -3  -9   1   2  -4  -8
 */
