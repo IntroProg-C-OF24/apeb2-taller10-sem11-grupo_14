@@ -79,5 +79,25 @@ public class ejercicio06 {
     }
 }
 /*
-
+Ingrese el tamanio de la matriz cuadrada: 4
+Menu:
+1. Sumar matrices
+2. Restar matrices
+3. Salir
+Ingrese una opcion: 2
+Matriz 1:
+-2 8 4 6 
+8 -1 -6 -2 
+-1 -6 5 2 
+9 3 -7 3 
+Matriz 2:
+-2 -9 5 4 
+4 6 -3 1 
+8 -7 5 -5 
+7 1 3 3 
+Resultado de la resta:
+0 17 -1 2 
+4 -7 -3 -3 
+-9 1 0 7 
+2 2 -10 0 
 */
