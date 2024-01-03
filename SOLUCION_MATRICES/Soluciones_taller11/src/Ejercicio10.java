@@ -1,6 +1,6 @@
 public class Ejercicio10 {
     public static void main(String[] args) {
-        int altura = 7;
+        int altura = 4;
         for (int i = 0; i < altura; i++) {
             for (int j = 0; j < altura - i - 1; j++) {
                 System.out.print(" ");
